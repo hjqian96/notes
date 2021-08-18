@@ -13,11 +13,17 @@
 ### Monte Carlo simulation
 1. How to compute <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/png.latex?\pi" title="\pi" /></a> using Monte Carlo simulations? What is the standard deviation?
 2. Methods to generate i.i.d samples for <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;N(0,1)" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;N(0,1)" title="N(0,1)" /></a> ?
-3. Numerical methods for simulating SDE path
+    - Box-Muller
+    - Acceptance-Rejection method
+    - Inverse transform
+4. Numerical methods for simulating SDE path
     - Euler-Maruyama scheme
     - Milstein scheme
-4. Convergence rate of Monte Carlo methods?
-5. Variance reduction techniques?
+5. Convergence rate of Monte Carlo methods?
+6. Variance reduction techniques?
+    - Control Variates
+    - Antithetic variables
+    - Moment Batching
 ### Coding
 ### Finance
 ### Probability
