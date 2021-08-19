@@ -1,4 +1,5 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ## Preparations for Quant
 ### Machine Learning
 1. Models
@@ -11,7 +12,7 @@
 4. Learning
 5. Deep Learning topics
 ### Monte Carlo simulation
-1. How to compute <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/png.latex?\pi" title="\pi" /></a> using Monte Carlo simulations? What is the standard deviation?
+1. How to compute $\pi$ using Monte Carlo simulations? What is the standard deviation?
 2. Methods to generate i.i.d samples for <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;N(0,1)" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;N(0,1)" title="N(0,1)" /></a> ?
     - Box-Muller
     - Acceptance-Rejection method
