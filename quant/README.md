@@ -12,8 +12,8 @@
 4. Learning
 5. Deep Learning topics
 ### Monte Carlo simulation
-1. How to compute $\pi$ using Monte Carlo simulations? What is the standard deviation?
-2. Methods to generate i.i.d samples for <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;N(0,1)" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;N(0,1)" title="N(0,1)" /></a> ?
+1. How to compute <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\pi" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;\pi" title="\pi" /></a> using Monte Carlo simulations? What is the standard deviation?
+2. Methods to generate i.i.d samples for <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;N(0,1)" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;N(0,1)" title="N(0,1)" /></a> ?
     - Box-Muller
     - Acceptance-Rejection method
     - Inverse transform
